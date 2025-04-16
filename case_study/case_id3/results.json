@@ -1,0 +1,77 @@
+{
+    "save_time": "2025-04-14T10:03:59.129192",
+    "gid": 0,
+    "iid": 17,
+    "basic_path": "results/npcbehfuzz_npc2_2025_04_14_08_58",
+    "result_path": "/home/yhw/QRS/results/npcbehfuzz_npc2_2025_04_14_08_58/gid0_iid17",
+    "fitness_values": [
+        3.1368801593780518,
+        1.0748914295960526,
+        4.0,
+        0.8246753246753247
+    ],
+    "weights": [
+        -1,
+        -1,
+        1,
+        1
+    ],
+    "ego_sp_index": 57,
+    "ego_dp_index": 34,
+    "ads_name": "interfuser",
+    "npc_p_list": [
+        [
+            "real_vehicle_accelerating_during_lane_change",
+            [
+                15,
+                0,
+                149,
+                9
+            ]
+        ],
+        [
+            "straight_junction_right",
+            [
+                1,
+                1
+            ]
+        ]
+    ],
+    "collision_detail": [
+        {
+            "frame": 154,
+            "timestamp": 10.30392942391336,
+            "transform": {
+                "x": -130.88455200195312,
+                "y": 12.100021362304688,
+                "z": 0.0017215919215232134
+            },
+            "other_actor": "vehicle.tesla.model3",
+            "part": "\u5de6"
+        },
+        {
+            "frame": 154,
+            "timestamp": 10.30392942391336,
+            "transform": {
+                "x": -130.88455200195312,
+                "y": 12.100021362304688,
+                "z": 0.0017215919215232134
+            },
+            "other_actor": "vehicle.tesla.model3",
+            "part": "\u5de6"
+        },
+        {
+            "frame": 154,
+            "timestamp": 10.30392942391336,
+            "transform": {
+                "x": -130.88455200195312,
+                "y": 12.100021362304688,
+                "z": 0.0017215919215232134
+            },
+            "other_actor": "vehicle.tesla.model3",
+            "part": "\u5de6"
+        }
+    ],
+    "method": "npcbehfuzz",
+    "npc_num": 2
+}

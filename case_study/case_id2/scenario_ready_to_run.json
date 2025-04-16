@@ -1,0 +1,21 @@
+{
+    "scenario_ready_to_run": "2025-04-14T09:04:31.948133",
+    "gid": 0,
+    "iid": 2,
+    "basic_path": "results/npcbehfuzz_npc2_2025_04_14_08_58",
+    "result_path": "/home/yhw/QRS/results/npcbehfuzz_npc2_2025_04_14_08_58/gid0_iid2",
+    "fitness_values": [],
+    "weights": [
+        -1,
+        -1,
+        1,
+        1
+    ],
+    "ego_sp_index": 201,
+    "ego_dp_index": 234,
+    "ads_name": "interfuser",
+    "npc_p_list": [],
+    "collision_detail": [],
+    "method": "npcbehfuzz",
+    "npc_num": 2
+}

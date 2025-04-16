@@ -1,0 +1,99 @@
+{
+    "save_time": "2025-04-14T11:24:23.009955",
+    "gid": 0,
+    "iid": 41,
+    "basic_path": "results/npcbehfuzz_npc2_2025_04_14_08_58",
+    "result_path": "/home/yhw/QRS/results/npcbehfuzz_npc2_2025_04_14_08_58/gid0_iid41",
+    "fitness_values": [
+        2.346853733062744,
+        1.1425391649657959,
+        5.0,
+        0.10254545454545455
+    ],
+    "weights": [
+        -1,
+        -1,
+        1,
+        1
+    ],
+    "ego_sp_index": 91,
+    "ego_dp_index": 255,
+    "ads_name": "interfuser",
+    "npc_p_list": [
+        [
+            "real_vehicle_accelerating_during_lane_change",
+            [
+                20,
+                4,
+                156,
+                9
+            ]
+        ],
+        [
+            "straight_junction_right",
+            [
+                1,
+                8
+            ]
+        ]
+    ],
+    "collision_detail": [
+        {
+            "frame": 1375,
+            "timestamp": 71.14933202043176,
+            "transform": {
+                "x": 27.17616081237793,
+                "y": -76.030517578125,
+                "z": 0.0013828851515427232
+            },
+            "other_actor": "vehicle.tesla.model3",
+            "part": "\u5de6"
+        },
+        {
+            "frame": 1375,
+            "timestamp": 71.14933202043176,
+            "transform": {
+                "x": 27.17616081237793,
+                "y": -76.030517578125,
+                "z": 0.0013828851515427232
+            },
+            "other_actor": "vehicle.tesla.model3",
+            "part": "\u5de6"
+        },
+        {
+            "frame": 1375,
+            "timestamp": 71.14933202043176,
+            "transform": {
+                "x": 27.17616081237793,
+                "y": -76.030517578125,
+                "z": 0.0013828851515427232
+            },
+            "other_actor": "vehicle.tesla.model3",
+            "part": "\u5de6"
+        },
+        {
+            "frame": 1375,
+            "timestamp": 71.14933202043176,
+            "transform": {
+                "x": 27.17616081237793,
+                "y": -76.030517578125,
+                "z": 0.0013828851515427232
+            },
+            "other_actor": "vehicle.tesla.model3",
+            "part": "\u5de6"
+        },
+        {
+            "frame": 1375,
+            "timestamp": 71.14933202043176,
+            "transform": {
+                "x": 27.17616081237793,
+                "y": -76.030517578125,
+                "z": 0.0013828851515427232
+            },
+            "other_actor": "vehicle.tesla.model3",
+            "part": "\u5de6"
+        }
+    ],
+    "method": "npcbehfuzz",
+    "npc_num": 2
+}
